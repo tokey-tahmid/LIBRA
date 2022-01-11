@@ -1,4 +1,4 @@
-# LIBRA
+# CSE471 Project - LIBRA
 A Subscription Based Online Gaming Platform
 1. If u do not have Visual Studio installed, 
    run Visual Studio Installer and install Visual Studio.
